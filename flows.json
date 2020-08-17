@@ -1,4 +1,1 @@
-
-        [{"id":"7493e9ee.4b09e8","type":"comment","z":"7815539e.9ef41c",
-        "name":"Node-Red y Git","info":"","x":360,"y":100,"wires":[]}]
-      
+[{"id":"2535cc.95b12a34","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"7493e9ee.4b09e8","type":"comment","z":"2535cc.95b12a34","name":"Node-Red y Git","info":"","x":360,"y":100,"wires":[]},{"id":"8bd08025.c2f2d","type":"inject","z":"2535cc.95b12a34","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":440,"y":220,"wires":[["5b7e71d.7e7669"]]},{"id":"5b7e71d.7e7669","type":"debug","z":"2535cc.95b12a34","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":690,"y":220,"wires":[]}]
